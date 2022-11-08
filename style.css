@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+nav{
+    text-align: center;
+    box-sizing: border-box;
+    border: 5px solid black;
+    width: 500px;
+    height: 1000px;
+    font-size: large;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 490px;
+}
+img{
+    width: 480px;
+}
+p{
+    font-size: larger;
+    font-weight: bold;
+
+}
+form{
+    font-weight: bold;
+}
+button{
+    
+}
